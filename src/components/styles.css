@@ -1,0 +1,16 @@
+#dob {
+  width: 400px;
+}
+
+.div1 {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#i2 {
+  background-color: rgb(38, 19, 255);
+  color: white;
+}
